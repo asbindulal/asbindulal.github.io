@@ -150,8 +150,8 @@
 
   .btn-nav {
     color: #5871ff;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-right: 1em;
+    font-size: 1.4em;
   }
 
   @media (min-width: 800px) {
